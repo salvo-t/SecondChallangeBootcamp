@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+.header {
+    background-color: blue;
+
+}
+
+.my-face {
+    background-position: center;
+}
