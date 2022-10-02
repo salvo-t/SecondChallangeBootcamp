@@ -7,7 +7,7 @@ salvatoret@gmail.com
 
 Git hub account x
 
-developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+developer's name X, a recent photo or avatar X, and links to sections about them X, their work, and how to contact them 
 links working
 resizeable
 highlight when hoved over
@@ -23,3 +23,5 @@ Web architechure
 work about me contact resume
 
 name in the top left corner
+
+make a div and hardcode background color with width and height
